@@ -1,5 +1,7 @@
-@ Yuanyuan Tang
+
 # T-test-and-ANOVA
+
+@ Yuanyuan Tang
 A summary of t-test and ANOVA test
 
 The project summarizes the T-test and ANOVA test for the hypothesis test.
